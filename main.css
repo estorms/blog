@@ -1,0 +1,18 @@
+img {
+    max-width: 400px;
+    min-width: 400px;
+}
+
+#article1 {
+
+}
+
+.red_outline {
+    border: 1px solid red;
+    /*border-size: 1px;
+    border-style: solid; 
+    border-color: red;
+    /*padding: 1px 3px 5px 4px; /* top right bottom left */
+    padding: 3px 4px; /* top&bottom left&right */
+    /* padding: 5px 4px 3px; top left&right bottom */
+}
