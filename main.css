@@ -7,9 +7,7 @@ img {
     min-width: 400px;
 }
 
-.hidden {
-    display: none;
-}
+
 
 .red_outline {
     border: 1px solid red;
@@ -26,12 +24,7 @@ img {
     min-width: 500px;
 }
 
-#article1 {
-    color: blue;
-    font-family: sans-serif;
-    color: #222222;
 
-}
 
 a {
     text-decoration: none;
